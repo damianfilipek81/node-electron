@@ -2,7 +2,7 @@
   "name": "node",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:damianfilipek81/node.git",
+  "repository": "git@github.com:damianfilipek81/node-electron.git",
   "author": "Damian <damianfilipek81@gmail.com>",
   "license": "MIT",
   "dependencies": {
